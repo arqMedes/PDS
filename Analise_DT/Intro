@@ -1,0 +1,7 @@
+ Um sinal em tempo discreto é basicamente uma seqüência de números. Tais sinais aparecem naturalmente em
+ situações inerentemente discretas, tais como estudos populacionais, problemas de amortização, modelos de ren
+da nacional e rastreamento por radar. Eles também podem aparecer como resultado da amostragem de sinais
+ contínuos no tempo em sistemas amostrados de filtragem digital. Tais sinais podem ser representados por x[n],
+ y[n] e assim por diante, no qual a variável n assume valores inteiros e x[n] representa o n-ésimo número na se
+qüência x. Nessa notação, a variável discreta n é mantida entre colchetes em vez de parênteses, o qual é reserva
+do para variáveis contínuas no tempo, tal como t.
